@@ -31,8 +31,7 @@ realtime-dashboard/
 │
 ├── app.py                    # Main Streamlit app
 ├── utils/
-│   └── data_generator.py     # Generates live data
-├── data/                     # (Optional) Static datasets
+│   └── data_generator.py     # Generates live data           
 ├── requirements.txt
 └── README.md
 ```
