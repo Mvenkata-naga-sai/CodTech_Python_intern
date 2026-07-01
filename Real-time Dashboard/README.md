@@ -98,7 +98,19 @@ This project demonstrates how to build a real-time data visualization dashboard 
 
 ## 👨‍💻 Author
 
+# m venkata naga sai
 
+Intern Id: # CITS4390
+
+computer science engineering
+
+---
+
+## 📌 Conclusion
+
+The Real-time Dashboard built with Streamlit showcases the ability to create interactive and dynamic data visualization applications using Python. With features like live data streaming, customizable controls, and real-time updates, this project demonstrates practical skills in building modern dashboards.
+
+It serves as a strong foundation for developing advanced analytics systems and can be extended with real-world data sources, machine learning models, and deployment solutions. Overall, this project highlights the efficiency and simplicity of Streamlit for rapid dashboard development.
 
 ---
 
